@@ -1,10 +1,10 @@
-#Breakout no prompt de comando
+# Breakout no prompt de comando
 
 ![Menu](https://user-images.githubusercontent.com/72423032/158039306-6c4a9271-c790-4f8e-be37-877eb17d7f97.png)
 
 Jogo feito completamente no prompt de comando em C inspirado no clássico Breakout de Atari. Foi usada a biblioteca [conio2.h](https://pt.osdn.net/projects/sfnet_hlanguage/downloads/Source/include/conio2.h/) para construir toda a interface do jogo.
 
-##Como o jogo funciona?
+## Como o jogo funciona?
 
 Quando o jogo é iniciado, temos opções de dificuldade:
 
@@ -41,7 +41,7 @@ O jogo pode ser salvo a qualquer momento, basta escolher um nome para o arquivo 
 
 ![pontuacoes](https://user-images.githubusercontent.com/72423032/159184498-6efb152c-fef2-48d0-a8b9-2c4a187bfc47.png)
 
-##Créditos
+## Créditos
 
 ![credito](https://user-images.githubusercontent.com/72423032/159184529-00ad1178-da16-4e58-93b7-9a6f00522ef4.png)
 
